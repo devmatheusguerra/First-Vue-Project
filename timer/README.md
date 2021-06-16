@@ -1,4 +1,4 @@
-# timer project
+# Timer project
 
 ## Project setup
 ```
