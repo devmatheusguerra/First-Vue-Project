@@ -15,5 +15,13 @@
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-vue": "^6.2.2"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmatheusguerra/First-Vue-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devmatheusguerra/First-Vue-Project/issues"
+  },
+  "homepage": "https://github.com/devmatheusguerra/First-Vue-Project#readme"
 }
