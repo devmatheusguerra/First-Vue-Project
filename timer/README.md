@@ -1,4 +1,4 @@
-# hello-world
+# timer project
 
 ## Project setup
 ```
