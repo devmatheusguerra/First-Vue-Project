@@ -1,0 +1,19 @@
+{
+  "name": "vue-project",
+  "version": "1.0.0",
+  "description": "Just learning Vue",
+  "author": "",
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/eslint-config-airbnb": "^5.0.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-vue": "^6.2.2"
+  },
+  "license": "ISC"
+}
